@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "190508562656",
+    "project_id": "rs-chat-application",
+    "storage_bucket": "rs-chat-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190508562656:android:503751bb8dfec0b9c2b885",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190508562656-iqaptedi8uijb19bbuamridqabiudv07.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatapp",
+            "certificate_hash": "9411b3ecd33446961461a5a3e7e49802d92c749c"
+          }
+        },
+        {
+          "client_id": "190508562656-tta525lthpe2mbe8eob87q5elma855v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAipBmZ947bErZj1QfHIlnkiLY7SGfQF68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190508562656-tta525lthpe2mbe8eob87q5elma855v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
